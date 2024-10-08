@@ -1,0 +1,10 @@
+<<Birincil>>
+1.eksen=1.255 kg 0.662 m => Tork=8,15 Nm
+2.eksen=1.255-0.183 kg 0.08 m => Tork=0,841 Nm
+3.eksen=1.255-0.183-0.173 kg 0.59 m => Tork=5,203 Nm
+4.eksen=1.255-0.183-0.173-0.231 kg 0.343 m => Tork=2,247 Nm
+<<Ýkincil>>
+1.eksen=0,700 kg 0.162 m => Tork= 1,11 Nm
+2.eksen=0.600 kg 0.162 m => Tork= 0,953 Nm
+3.eksen=0.400 kg 0.1 m => Tork= 0,392 Nm
+4.eksen=0.300 kg 0.1 m => Tork= 0,294 Nm
